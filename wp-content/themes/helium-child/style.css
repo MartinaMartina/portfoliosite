@@ -1,0 +1,28 @@
+/*
+Theme Name: Helium Child Theme
+Description: Helium Child Theme
+Template: helium
+Version: 1.0
+*/
+
+@import url("../helium/assets/css/helium.min.css");
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+.rsHelium .rsArrowIcn
+{
+  width: 100%;
+  height: 100%;
+  background-color: #28c99b;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  opacity: 0.6;
+  transition-property: none;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-out;
+  transition-delay: 0s;
+}
+
+
